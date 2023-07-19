@@ -1,4 +1,4 @@
-const container = document.getElementById("container");
+const container = document.querySelector("#container");
 
 const p = document.createElement("p");
 const h3 = document.createElement("h3");
